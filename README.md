@@ -6,10 +6,6 @@
 </p>
 
 <br>
-<!-- 
-## ACESSE A APLICAÇÃO
-https://challengetherickandmortybycleiton.netlify.app/ -->
-
 
 <p align="center">
   <img src="src/assets/projall.png" width="620">
